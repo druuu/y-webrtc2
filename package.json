@@ -39,7 +39,8 @@
   },
   "homepage": "http://y-js.org",
   "dependencies": {
-    "simplewebrtc": "^3.0.0"
+    "node-static": "^0.7.10",
+    "socket.io": "^2.0.4"
   },
   "devDependencies": {
     "gulp-uglify": "^2.0.0",
