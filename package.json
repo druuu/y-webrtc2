@@ -1,6 +1,6 @@
 {
   "name": "y-webrtc2",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "WebRTC Connector for Yjs",
   "main": "./src/WebRTC.js",
   "scripts": {
@@ -39,8 +39,7 @@
   },
   "homepage": "http://y-js.org",
   "dependencies": {
-    "node-static": "^0.7.10",
-    "socket.io": "^2.0.4"
+    "simplewebrtc": "^3.0.0"
   },
   "devDependencies": {
     "gulp-uglify": "^2.0.0",
